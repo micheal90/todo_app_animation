@@ -2,10 +2,7 @@
 
 A new Flutter project.
 # screenShots
-![Screenshot_20211112-235315](https://user-images.githubusercontent.com/26098900/141539245-8e60db4f-3fa2-464c-854f-7256928dd020.jpg)
-
-![Screenshot_20211112-235325](https://user-images.githubusercontent.com/26098900/141539106-a01c5b9a-f4df-49f5-ad2b-fa0708bcc19d.jpg
-
+![Slide1](https://user-images.githubusercontent.com/26098900/141539624-584b30af-b58e-4cd6-988d-78658d9fad98.PNG)
 
 
 ## Getting Started
